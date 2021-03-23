@@ -6,3 +6,6 @@ Sexta aula de Sistemas Operacionais I, aula extra demonstrando o funcionamento d
 Criamos uma aplicação CRUD para pessoas, em que os nomes são armazenados em um vetor.
 
 [Link da Aula.](https://www.youtube.com/watch?v=o7LMCjINOMo)
+
+Tela principal:  
+<img src="https://github.com/CTRLMarcws/ISO100-T6_ADS_FATEC-ZL/blob/master/assets/Tela_Principal.PNG"  width=542px height=479px/>
