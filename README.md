@@ -8,4 +8,4 @@ Criamos uma aplicação CRUD para pessoas, em que os nomes são armazenados em u
 [Link da Aula.](https://www.youtube.com/watch?v=o7LMCjINOMo)
 
 Tela principal:  
-<img src="https://github.com/CTRLMarcws/ISO100-A6_ADS_FATEC-ZL/blob/master/assets/Tela_Principal.PNG"  width=542px height=479px/>
+<img src="https://github.com/CTRLMarcws/ISO100-A6_ADS_FATEC-ZL/blob/master/assets/Tela_Principal.png"  width=542px height=479px/>
